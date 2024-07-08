@@ -30,7 +30,7 @@ Automatic Pet Feeder Monitor is a Python-based project designed to monitor the f
    git clone https://github.com/yourusername/automatic-pet-feeder-monitor.git
    cd automatic-pet-feeder-monitor
    ```
-2. **Create and configure `.env` file
+2. **Create and configure `.env` file**
 
    ```bash
    EMAIL_SENDER=your_email@gmail.com
