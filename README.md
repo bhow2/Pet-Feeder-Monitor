@@ -29,3 +29,21 @@ Automatic Pet Feeder Monitor is a Python-based project designed to monitor the f
    ```bash
    git clone https://github.com/yourusername/automatic-pet-feeder-monitor.git
    cd automatic-pet-feeder-monitor
+   ```
+2. **Create and configure `.env` file
+
+   ```bash
+   EMAIL_SENDER=your_email@gmail.com
+   EMAIL_RECEIVER=receiver_email@gmail.com
+   EMAIL_PASSWORD=your_email_password
+   ```
+3. **Install the required libraries**
+
+   ```bash
+   pip install RPi.GPIO
+   ```
+4. Run the script
+
+   ```bash
+   python script.py
+   ```
