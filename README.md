@@ -4,7 +4,7 @@
 
 ## Description
 
-Automatic Pet Feeder Monitor is a Python-based project designed to monitor the food level in a cat feeder using an HC-SR04 distance sensor and a Raspberry Pi. The system checks the food level three times a day and sends an email alert when the food level is nearing empty/
+Automatic Pet Feeder Monitor is a Python-based project designed to monitor the food level in a cat feeder using an HC-SR04 distance sensor and a Raspberry Pi. The system checks the food level three times a day and sends an email alert when the food level is nearing empty.
 
 ## Features
 
