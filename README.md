@@ -47,3 +47,8 @@ Automatic Pet Feeder Monitor is a Python-based project designed to monitor the f
    ```bash
    python script.py
    ```
+
+## Diagram
+![Diagram](https://github.com/bhow2/Pet-Feeder-Monitor/assets/98941657/517bfcef-8b22-449d-a3c2-1e40ab47db17)
+
+
